@@ -11,9 +11,11 @@ This dashboard enables data-driven decision-making by providing insights into or
 ⭐ Developed an interactive dashboard with dynamic filters
 ⭐ Delivered actionable business insights from raw data
 
-Metric	Value
-💰 Total Sales	₹5.30 Cr
-🧺 Total Orders	1.97 Lakh
-📊 Avg Order Value	₹ 269
-⭐ Avg Rating	4.3
-💸 Rating Count	55.9 Lakh
+| Metric	Value     | Values       |
+|-----------------  |--------------|
+|💰 Total Sales	    | ₹5.30 Cr     |
+|🧺 Total Orders    |	 1.97 Lakh  |
+|📊 Avg Order Value	 |₹ 269         |
+|⭐ Avg Rating	    |  4.3          |
+|💸 Rating Count	  |  55.9 Lakh     |
+
