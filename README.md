@@ -1,4 +1,4 @@
-**🚀 Swiggy Business Performance Dashboard**
+# 🚀 Swiggy Business Performance Dashboard
 <p align="center"> 
   <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Database-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -142,6 +142,7 @@ This dashboard can be used by:
 👨‍💻 Author
 
 Shubham Kakade
+
 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
 
 ---
