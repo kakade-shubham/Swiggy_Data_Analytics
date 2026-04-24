@@ -18,13 +18,11 @@ It enables stakeholders to make data-driven decisions through interactive visual
 Analyze food delivery data to identify trends in revenue, customer behavior, and restaurant performance, and build a dashboard to support business decision-making.
 
 🧮 Key Metrics
-Metric	Value
-Total Sales	₹5.30 Cr
-Total Orders	1.97 Lakh
-Avg Order Value	₹269
-Avg Rating	4.3
-Total Ratings Count	55.9 Lakh
-
+Total Sales: ₹5.30 Cr
+Total Orders: 1.97 Lakh
+Avg Order Value: ₹269
+Avg Rating: 4.3
+Total Ratings Count: 55.9 Lakh
 📌 Features & Analysis
 📈 Sales & Order Trends
 Monthly order trends to identify peak demand
@@ -36,7 +34,6 @@ Stable weekday ordering patterns
 Veg vs Non-Veg distribution
 Veg orders contribute ~71%
 🏆 Top Restaurants
-Top performers include:
 KFC
 McDonald's
 Pizza Hut
@@ -56,56 +53,38 @@ Weekend demand is significantly higher
 Veg food dominates customer preference
 Top brands drive major order volume
 Certain states consistently outperform others
-
-Data Model
+🧱 Data Model
 Star Schema Implementation
 Fact Table: Orders
+
 Dimension Tables:
+
 Date
 Location
 Restaurant
 Dishes
 🛠️ Tech Stack
-Layer	Tools
-Data Storage	Microsoft Fabric Lakehouse
-Data Processing	SQL
-Data Modeling	Star Schema
-Visualization	Power BI
+Microsoft Fabric
+SQL
+Power BI
+Star Schema
 ⚡ Enhancements Implemented
 Multi-level trend analysis (Monthly, Weekly, Daily)
 Interactive dashboard filters
-Optimized data model using star schema
+Optimized data model
 Business-focused KPI design
-Clean and structured dashboard layout
 🔮 Future Improvements
-Add delivery performance metrics (Avg Delivery Time, On-Time %)
+Add delivery performance metrics
 Analyze order cancellation trends
-Create restaurant-level drill-through page
-Add geo-spatial map visualization
-Implement sales forecasting
-Perform customer segmentation
+Create restaurant drill-through page
+Add geo-spatial map
+Implement forecasting
+Customer segmentation
 ▶️ How to Use
-Download the .pbix file from the repository
+Download the .pbix file
 Open in Power BI Desktop
-Use filters and visuals to explore insights
-📁 Repository Structure
-Swiggy-Data-Analytics/
-│
-├── Dataset/
-├── SQL/
-├── PowerBI/
-├── Screenshots/
-├── Architecture/
-└── README.md
-🎯 Business Use Case
+Use filters to explore insights
 
-This dashboard helps:
-
-Analyze sales and order trends
-Identify top-performing restaurants
-Understand customer behavior
-Support strategic decision-making
 👨‍💻 Author
 
 Shubham Kakade
-Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
