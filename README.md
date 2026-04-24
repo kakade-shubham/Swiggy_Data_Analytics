@@ -100,7 +100,7 @@ As real-world transactional data is not publicly available, synthetic order-leve
 
 **🔹 Data Model:**
 
--⭐ Star Schema Implementation
+⭐ Star Schema Implementation
 - Fact Table: Orders
 - Dimension Tables:
   - Date
@@ -140,6 +140,7 @@ This dashboard can be used by:
 ---
 
 👨‍💻 Author
+
 Shubham Kakade
 
 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
