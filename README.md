@@ -24,86 +24,95 @@ This dashboard enables data-driven decision-making by providing insights into or
 ---
 
 **🧮 Key Metrics:** 
-Metric	Value
-💰 Total Sales	₹5.30 Cr
-🛒 Total Orders	1.97 Lakh
-📊 Avg Order Value	₹269
-⭐ Avg Rating	4.3
-👍 Rating Count	55.9 Lakh
+|Metric	              | Value        |
+| 💰 Total Sales     |	 ₹5.30 Cr    |
+| 🛒 Total Orders	    |  1.97 Lakh   |
+| 📊 Avg Order Value	|  ₹269        |
+| ⭐ Avg Rating	      |  4.3         |
+| 👍 Rating Count	    |  55.9 Lakh   |
 
-📌 Features & Analysis
-📈 Sales & Order Trends
-Monthly trend analysis to identify peak demand periods
-Detects seasonal fluctuations in orders
-📅 Daily & Weekly Insights
-Higher sales observed on weekends
-Consistent weekday ordering behavior
-🍽️ Food Category Analysis
-Veg vs Non-Veg distribution
-🟢 Veg dominates with ~71% share
-🏆 Top Restaurants
+---
+
+**📌 Features and Analysis**
+**📈 Sales & Order Trends**
+  - Monthly trend analysis to identify peak demand periods
+  - Detects seasonal fluctuations in orders
+---
+**📅 Daily & Weekly Insights**
+  - Higher sales observed on weekends
+  - Consistent weekday ordering behavior
+---
+**🍽️ Food Category Analysis**
+  - Veg vs Non-Veg distribution
+  - Veg dominates with ~71% share
+---
+**🏆 Top Restaurants**
 Leading contributors:
-KFC
-McDonald's
-Pizza Hut
-Burger King
-Domino’s
-🌍 Regional Performance
-Top-performing states by revenue
-Karnataka leads overall sales
-🎛️ Interactive Filters
-City
-Food Type
-Quarter
-Restaurant Name
-💡 Business Insights
+  - KFC
+  - McDonald's
+  - Pizza Hut
+  - Burger King
+  - Domino’s
+---
+**🌍 Regional Performance**
+  - Top-performing states by revenue
+  - Karnataka leads overall sales
+---
+**🎛️ Interactive Filters**
+  - City
+  - Food Type
+  - Quarter
+  - Restaurant Name
+---
+**💡 Business Insights**
 
-✔️ Strong demand with ~197K orders generating ₹5Cr+ revenue
-✔️ Weekend peaks indicate leisure-driven consumption
-✔️ Veg food preference dominates customer behavior
-✔️ Top brands significantly influence total sales
-✔️ Regional trends highlight high-growth markets
+- ✔️ Strong demand with ~197K orders generating ₹5Cr+ revenue
+- ✔️ Weekend peaks indicate leisure-driven consumption
+- ✔️ Veg food preference dominates customer behavior
+- ✔️ Top brands significantly influence total sales
+- ✔️ Regional trends highlight high-growth markets
 
-🧱 Data Architecture
-<p align="center"> <img src="Architecture/architecture.png" width="80%"> </p>
-🔹 Data Model
+---
+
+**🔹 Data Model:**
 ⭐ Star Schema Implementation
-Fact Table: Orders
-Dimension Tables:
-Date
-Location
-Restaurant
-Dishes
-🛠️ Tech Stack
-Layer	Tools
-Data Storage	Microsoft Fabric Lakehouse
-Data Processing	SQL
-Data Modeling	Star Schema
-Visualization	Power BI
-⚡ Enhancements & Customizations
-📊 Multi-level trend analysis (Monthly, Weekly, Daily)
-🎨 Custom Swiggy-themed dashboard design
-⚙️ Optimized data model for performance
-🎯 Business-focused KPI creation
-🔍 Interactive filtering for better exploration
-📁 Repository Structure
-Swiggy-Data-Analytics/
-│
-├── Dataset/              # Raw CSV files
-├── SQL/                  # SQL scripts
-├── PowerBI/              # .pbix file
-├── Screenshots/          # Dashboard images
-├── Architecture/         # Data model diagrams
-└── README.md
-🎯 Business Use Case
+- Fact Table: Orders
+- Dimension Tables:
+  - Date
+  - Location
+  - Restaurant
+  - Dishes
+
+---
+
+**🛠️ Tech Stack:**
+|Layer	           | Tools                          |
+| Data Storage	   | Microsoft Fabric Lakehouse     |
+| Data Processing	 | SQL                            |
+| Data Modeling	   | Star Schema                    |
+| Visualization	   | Power BI                       |
+
+---
+
+**⚡ Enhancements & Customizations:**
+- 📊 Multi-level trend analysis (Monthly, Weekly, Daily)
+- 🎨 Custom Swiggy-themed dashboard design
+- ⚙️ Optimized data model for performance
+- 🎯 Business-focused KPI creation
+- 🔍 Interactive filtering for better exploration
+- 🎯 Business Use Case
+
+---
 
 This dashboard can be used by:
 
-📊 Business Analysts → Identify trends & KPIs
-📈 Managers → Track performance & revenue
-🍽️ Operations Teams → Optimize restaurant performance
-🎯 Strategy Teams → Make data-driven decisions
-👨‍💻 Author
+- 📊 Business Analysts → Identify trends & KPIs
+- 📈 Managers → Track performance & revenue
+- 🍽️ Operations Teams → Optimize restaurant performance
+- 🎯 Strategy Teams → Make data-driven decisions
 
+---
+
+👨‍💻 Author
 Shubham Kakade
 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
