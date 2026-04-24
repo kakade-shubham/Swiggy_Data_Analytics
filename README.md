@@ -1,74 +1,73 @@
-🚀 Swiggy Business Performance Dashboard
-
+**🚀 Swiggy Business Performance Dashboard**
 <p align="center"> 
   <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Database-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Platform-Microsoft%20Fabric-742774?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Database-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-Microsoft%20Fabric-742774?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model-Star%20Schema-orange?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
-**📊 Project Overview**
+**📊 Project Overview**:
+An end-to-end data analytics project built to analyze Swiggy’s business performance across sales, customer behavior, and restaurant trends.
 
-This project analyzes Swiggy’s business performance using an end-to-end data analytics approach.
+This dashboard enables data-driven decision-making by providing insights into order patterns, revenue distribution, and customer preferences.
 
-The dashboard provides insights into:
+---
 
--  Sales performance
-- Customer ordering behavior
-- Restaurant trends
-- Regional performance
+**🎯 Key Highlights:**
 
-It enables stakeholders to make data-driven decisions through interactive visualizations.
+- ✨ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI
+- ✨ Designed a star schema data model for performance optimization
+- ✨ Developed an interactive dashboard with dynamic filters
+- ✨ Delivered actionable business insights from raw data
 
-🎯 Problem Statement
+---
 
-Analyze food delivery data to identify trends in revenue, customer behavior, and restaurant performance, and build a dashboard to support business decision-making.
-
-🧮 Key Metrics
+**🧮 Key Metrics:** 
 Metric	Value
-Total Sales	₹5.30 Cr
-Total Orders	1.97 Lakh
-Avg Order Value	₹269
-Avg Rating	4.3
-Total Ratings Count	55.9 Lakh
-🖥️ Dashboard Preview
-<p align="center"> <img src="Screenshots/dashboard.png" alt="Swiggy Dashboard" width="95%"> </p>
+💰 Total Sales	₹5.30 Cr
+🛒 Total Orders	1.97 Lakh
+📊 Avg Order Value	₹269
+⭐ Avg Rating	4.3
+👍 Rating Count	55.9 Lakh
+
 📌 Features & Analysis
 📈 Sales & Order Trends
-Monthly order trends to identify peak demand
-Helps understand seasonality
+Monthly trend analysis to identify peak demand periods
+Detects seasonal fluctuations in orders
 📅 Daily & Weekly Insights
 Higher sales observed on weekends
-Stable weekday ordering patterns
+Consistent weekday ordering behavior
 🍽️ Food Category Analysis
 Veg vs Non-Veg distribution
-Veg orders contribute ~71%
+🟢 Veg dominates with ~71% share
 🏆 Top Restaurants
-Top performers include:
+Leading contributors:
 KFC
 McDonald's
 Pizza Hut
 Burger King
 Domino’s
 🌍 Regional Performance
-State-wise sales comparison
-Karnataka contributes highest revenue
-🎛️ Filters & Interactivity
+Top-performing states by revenue
+Karnataka leads overall sales
+🎛️ Interactive Filters
 City
 Food Type
 Quarter
 Restaurant Name
-💡 Key Insights
-Strong revenue generation of ₹5Cr+ from ~197K orders
-Weekend demand is significantly higher
-Veg food dominates customer preference
-Top brands drive major order volume
-Certain states consistently outperform others
+💡 Business Insights
+
+✔️ Strong demand with ~197K orders generating ₹5Cr+ revenue
+✔️ Weekend peaks indicate leisure-driven consumption
+✔️ Veg food preference dominates customer behavior
+✔️ Top brands significantly influence total sales
+✔️ Regional trends highlight high-growth markets
+
 🧱 Data Architecture
 <p align="center"> <img src="Architecture/architecture.png" width="80%"> </p>
-Data Model
-Star Schema Implementation
+🔹 Data Model
+⭐ Star Schema Implementation
 Fact Table: Orders
 Dimension Tables:
 Date
@@ -81,41 +80,30 @@ Data Storage	Microsoft Fabric Lakehouse
 Data Processing	SQL
 Data Modeling	Star Schema
 Visualization	Power BI
-⚡ Enhancements Implemented
-Multi-level trend analysis (Monthly, Weekly, Daily)
-Interactive dashboard filters
-Optimized data model using star schema
-Business-focused KPI design
-Clean and structured dashboard layout
-🔮 Future Improvements
-Add delivery performance metrics (Avg Delivery Time, On-Time %)
-Analyze order cancellation trends
-Create restaurant-level drill-through page
-Add geo-spatial map visualization
-Implement sales forecasting
-Perform customer segmentation
-▶️ How to Use
-Download the .pbix file from the repository
-Open in Power BI Desktop
-Use filters and visuals to explore insights
+⚡ Enhancements & Customizations
+📊 Multi-level trend analysis (Monthly, Weekly, Daily)
+🎨 Custom Swiggy-themed dashboard design
+⚙️ Optimized data model for performance
+🎯 Business-focused KPI creation
+🔍 Interactive filtering for better exploration
 📁 Repository Structure
 Swiggy-Data-Analytics/
 │
-├── Dataset/
-├── SQL/
-├── PowerBI/
-├── Screenshots/
-├── Architecture/
+├── Dataset/              # Raw CSV files
+├── SQL/                  # SQL scripts
+├── PowerBI/              # .pbix file
+├── Screenshots/          # Dashboard images
+├── Architecture/         # Data model diagrams
 └── README.md
 🎯 Business Use Case
 
-This dashboard helps:
+This dashboard can be used by:
 
-Analyze sales and order trends
-Identify top-performing restaurants
-Understand customer behavior
-Support strategic decision-making
+📊 Business Analysts → Identify trends & KPIs
+📈 Managers → Track performance & revenue
+🍽️ Operations Teams → Optimize restaurant performance
+🎯 Strategy Teams → Make data-driven decisions
 👨‍💻 Author
 
 Shubham Kakade
-Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
+📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
