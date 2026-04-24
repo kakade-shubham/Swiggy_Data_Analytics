@@ -7,7 +7,7 @@ This dashboard enables data-driven decision-making by providing insights into or
 
 ---
 
-🎯 Key Highlights 
+🎯 Key Highlights:
 ⭐ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI.
 ⭐ Designed a star schema data model for performance optimization. 
 ⭐ Developed an interactive dashboard with dynamic filters. 
@@ -67,3 +67,33 @@ This dashboard enables data-driven decision-making by providing insights into or
 •	Quarter 
 •	Restaurant Name
 
+---
+
+💡 Business Insights
+✔️ Strong demand with ~197K orders generating ₹5Cr+ revenue
+✔️ Weekend peaks indicate leisure-driven consumption
+✔️ Veg food preference dominates customer behavior
+✔️ Top brands significantly influence total sales
+✔️ Regional trends highlight high-growth markets
+
+---
+
+🔹 Data Model
+•	⭐ Star Schema Implementation 
+•	Fact Table: Orders 
+•	Dimension Tables: 
+  	Date 
+  	Location 
+  	Restaurant 
+  	Dishes
+
+---
+
+🛠️ Tech Stack
+
+| Layer           | Tools                      |
+| --------------- | -------------------------- |
+| Data Storage    | Microsoft Fabric Lakehouse |
+| Data Processing | SQL                        |
+| Data Modeling   | Star Schema                |
+| Visualization   | Power BI                   |
