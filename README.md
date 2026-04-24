@@ -87,11 +87,18 @@ Leading contributors:
 
 **🛠️ Tech Stack:**
 |Layer	           | Tools                          |
+|------------------|--------------------------------|
 | Data Storage	   | Microsoft Fabric Lakehouse     |
 | Data Processing	 | SQL                            |
 | Data Modeling	   | Star Schema                    |
 | Visualization	   | Power BI                       |
 
+| Layer           | Tools                      |
+| --------------- | -------------------------- |
+| Data Storage    | Microsoft Fabric Lakehouse |
+| Data Processing | SQL                        |
+| Data Modeling   | Star Schema                |
+| Visualization   | Power BI                   |
 ---
 
 **⚡ Enhancements & Customizations:**
@@ -116,15 +123,10 @@ This dashboard can be used by:
 👨‍💻 Author
 
 Shubham Kakade
-- 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
+📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
 
 ---
 
 
-| Layer           | Tools                      |
-| --------------- | -------------------------- |
-| Data Storage    | Microsoft Fabric Lakehouse |
-| Data Processing | SQL                        |
-| Data Modeling   | Star Schema                |
-| Visualization   | Power BI                   |
+
 
