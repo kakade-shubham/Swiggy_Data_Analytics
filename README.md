@@ -8,10 +8,10 @@ This dashboard enables data-driven decision-making by providing insights into or
 ---
 
 🎯 Key Highlights 
-⭐ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI 
-⭐ Designed a star schema data model for performance optimization 
-⭐ Developed an interactive dashboard with dynamic filters 
-⭐ Delivered actionable business insights from raw data
+✨ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI
+✨ Designed a star schema data model for performance optimization
+✨ Developed an interactive dashboard with dynamic filters
+✨ Delivered actionable business insights from raw data
 
 ---
 🧮Key Metrics
