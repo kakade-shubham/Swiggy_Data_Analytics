@@ -78,6 +78,7 @@ Leading contributors:
 ---
 
 **🗂️ Dataset Information and Source:**
+
 The dataset used in this project is a transformed hybrid dataset built using publicly available Swiggy data. It has been modeled into a star schema for analytical purposes.
 As real-world transactional data is not publicly available, synthetic order-level data has been generated to simulate a realistic data warehouse environment.
 
@@ -98,7 +99,7 @@ As real-world transactional data is not publicly available, synthetic order-leve
 ---
 
 **🔹 Data Model:**
-⭐ Star Schema Implementation
+-⭐ Star Schema Implementation
 - Fact Table: Orders
 - Dimension Tables:
   - Date
@@ -141,4 +142,5 @@ This dashboard can be used by:
 
 Shubham Kakade
 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
+
 ---
