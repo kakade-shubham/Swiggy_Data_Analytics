@@ -8,10 +8,10 @@ This dashboard enables data-driven decision-making by providing insights into or
 ---
 
 🎯 Key Highlights 
-✨ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI
-✨ Designed a star schema data model for performance optimization
-✨ Developed an interactive dashboard with dynamic filters
-✨ Delivered actionable business insights from raw data
+⭐ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI.
+⭐ Designed a star schema data model for performance optimization. 
+⭐ Developed an interactive dashboard with dynamic filters. 
+⭐ Delivered actionable business insights from raw data.
 
 ---
 🧮Key Metrics
@@ -23,4 +23,47 @@ This dashboard enables data-driven decision-making by providing insights into or
 |📊 Avg Order Value	 |₹ 269         |
 |⭐ Avg Rating	    |  4.3          |
 |💸 Rating Count	  |  55.9 Lakh     |
+
+---
+
+📌 Features & Analysis
+📈 Sales & Order Trends
+•	Monthly trend analysis to identify peak demand periods 
+•	Detects seasonal fluctuations in orders 
+
+---
+
+📅 Daily & Weekly Insights
+•	Higher sales observed on weekends 
+•	Consistent weekday ordering behavior 
+
+---
+
+🍽️ Food Category Analysis
+•	Veg vs Non-Veg distribution 
+•	🟢 Veg dominates with ~71% share 
+
+---
+
+🏆 Top Restaurants
+•	Leading contributors: 
+	KFC 
+	McDonald's 
+	Pizza Hut 
+	Burger King 
+	Domino’s
+
+---
+
+🌍 Regional Performance
+•	Top-performing states by revenue 
+•	Karnataka leads overall sales 
+
+---
+
+🎛️ Interactive Filters
+•	City 
+•	Food Type 
+•	Quarter 
+•	Restaurant Name
 
