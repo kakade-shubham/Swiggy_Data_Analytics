@@ -97,3 +97,27 @@ This dashboard enables data-driven decision-making by providing insights into or
 | Data Processing | SQL                        |
 | Data Modeling   | Star Schema                |
 | Visualization   | Power BI                   |
+
+---
+
+⚡ Enhancements & Customizations:
+•	📊 Multi-level trend analysis (Monthly, Weekly, Daily) 
+•	🎨 Custom Swiggy-themed dashboard design 
+•	⚙️ Optimized data model for performance 
+•	🎯 Business-focused KPI creation 
+•	🔍 Interactive filtering for better exploration
+
+---
+
+🎯 Business Use Case
+This dashboard can be used by:
+•	📊 Business Analysts → Identify trends & KPIs 
+•	📈 Managers → Track performance & revenue 
+•	🍽️ Operations Teams → Optimize restaurant performance 
+•	🎯 Strategy Teams → Make data-driven decisions
+
+---
+
+👨‍💻 Author
+Shubham Kakade
+📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
