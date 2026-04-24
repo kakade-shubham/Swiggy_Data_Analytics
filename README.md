@@ -5,11 +5,16 @@
 An end-to-end data analytics project built to analyze Swiggy’s business performance across sales, customer behavior, and restaurant trends.
 This dashboard enables data-driven decision-making by providing insights into order patterns, revenue distribution, and customer preferences.
 
+---
+
 🎯 Key Highlights
 ⭐ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI
 ⭐ Designed a star schema data model for performance optimization
 ⭐ Developed an interactive dashboard with dynamic filters
 ⭐ Delivered actionable business insights from raw data
+
+---
+🧮Key Metrics
 
 | Metric	Value     | Values       |
 |-----------------  |--------------|
