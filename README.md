@@ -24,8 +24,7 @@ Total Orders	1.97 Lakh
 Avg Order Value	₹269
 Avg Rating	4.3
 Total Ratings Count	55.9 Lakh
-🖥️ Dashboard Preview
-<p align="center"> <img src="Screenshots/dashboard.png" alt="Swiggy Dashboard" width="95%"> </p>
+
 📌 Features & Analysis
 📈 Sales & Order Trends
 Monthly order trends to identify peak demand
@@ -57,8 +56,7 @@ Weekend demand is significantly higher
 Veg food dominates customer preference
 Top brands drive major order volume
 Certain states consistently outperform others
-🧱 Data Architecture
-<p align="center"> <img src="Architecture/architecture.png" width="80%"> </p>
+
 Data Model
 Star Schema Implementation
 Fact Table: Orders
