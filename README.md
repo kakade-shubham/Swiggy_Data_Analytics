@@ -114,5 +114,17 @@ This dashboard can be used by:
 ---
 
 👨‍💻 Author
+
 Shubham Kakade
-📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
+- 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
+
+---
+
+
+| Layer           | Tools                      |
+| --------------- | -------------------------- |
+| Data Storage    | Microsoft Fabric Lakehouse |
+| Data Processing | SQL                        |
+| Data Modeling   | Star Schema                |
+| Visualization   | Power BI                   |
+
