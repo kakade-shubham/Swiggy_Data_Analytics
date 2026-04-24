@@ -14,6 +14,17 @@ This dashboard enables data-driven decision-making by providing insights into or
 
 ---
 
+**🎯 Problem Statement**
+
+To analyze food delivery data to identify trends in revenue, customer behavior, and restaurant performance, and build a dashboard to support business decision-making.
+
+**⏯️How to Use**
+- Download the .pbix file from the repository
+- Open in Power BI Desktop
+- Use filters and visuals to explore insights
+
+---
+
 **🎯 Key Highlights:**
 
 - ✨ Built a complete analytics pipeline using Microsoft Fabric + SQL + Power BI
@@ -24,12 +35,13 @@ This dashboard enables data-driven decision-making by providing insights into or
 ---
 
 **🧮 Key Metrics:** 
-| Metric	             | Value        |
-| -💰 Total Sales     |	 ₹5.30 Cr    |
-| -🛒 Total Orders	    |  1.97 Lakh   |
-| -📊 Avg Order Value	|  ₹269        |
-| -⭐ Avg Rating	      |  4.3         |
-| -👍 Rating Count	    |  55.9 Lakh   |
+| Metric	             | Value         |
+|----------------------|---------------|
+| -💰 Total Sales      |	 ₹5.30 Cr    |
+| -🛒 Total Orders	   |  1.97 Lakh    |
+| -📊 Avg Order Value	 |  ₹269         |
+| -⭐ Avg Rating	     |  4.3          |
+| -👍 Rating Count	   |  55.9 Lakh    |
 
 ---
 
@@ -64,6 +76,17 @@ Leading contributors:
   - Quarter
   - Restaurant Name
 ---
+
+**🗂️ Dataset Information and Source:**
+The dataset used in this project is a transformed hybrid dataset built using publicly available Swiggy data. It has been modeled into a star schema for analytical purposes.
+As real-world transactional data is not publicly available, synthetic order-level data has been generated to simulate a realistic data warehouse environment.
+
+- https://www.kaggle.com/datasets/nikhilmaurya1324/swiggy-restaurant-data-india?resource=download&select=swiggy_all_menus_india.csv
+- https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset?utm_source=chatgpt.com&select=swiggy.csv
+- https://www.kaggle.com/datasets/lokeshparab/swiggy-restraurant-and-item-full-datasets?utm_source=chatgpt.com&select=Swiggy.csv
+
+---
+
 **💡 Business Insights**
 
 - ✔️ Strong demand with ~197K orders generating ₹5Cr+ revenue
@@ -93,12 +116,6 @@ Leading contributors:
 | Data Modeling	   | Star Schema                    |
 | Visualization	   | Power BI                       |
 
-| Layer           | Tools                      |
-| --------------- | -------------------------- |
-| Data Storage    | Microsoft Fabric Lakehouse |
-| Data Processing | SQL                        |
-| Data Modeling   | Star Schema                |
-| Visualization   | Power BI                   |
 ---
 
 **⚡ Enhancements & Customizations:**
@@ -124,9 +141,4 @@ This dashboard can be used by:
 
 Shubham Kakade
 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
-
 ---
-
-
-
-
