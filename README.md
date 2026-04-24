@@ -142,7 +142,6 @@ This dashboard can be used by:
 👨‍💻 Author
 
 Shubham Kakade
-
 📌 Aspiring Data Analyst | Power BI | SQL | Microsoft Fabric
 
 ---
