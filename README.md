@@ -120,7 +120,7 @@ As real-world transactional data is not publicly available, synthetic order-leve
 
 
 ### To Show Date Style Codes: -
-https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver17
+- https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver17
 ---
 
 **⚡ Enhancements & Customizations:**
