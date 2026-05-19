@@ -1,0 +1,1 @@
+CREATE SCHEMA Swiggy_Analytics;
